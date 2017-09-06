@@ -2,9 +2,9 @@
 
 Airport World Wear: shop without leaving land!
 
-## There's no shop
+## Disclaimer
 
-Since Airport World Wear is as fictional as its parent brand, there's no official shop for Airport World Wear. (I couldn't get the money from it, anyway.)
+Airport World Wear is as fictional as its parent brand, and there is only pixel art released by Airport World Wear. (It's wonderful, however. :sparkles:)
 
 That said, we'd like to look at *your* real-world Airport World wear. Send photos to [@AirportWorld@instance.business](https://instance.business/@AirportWorld) hashtagged `#AirportWorldWear`. :)
 
